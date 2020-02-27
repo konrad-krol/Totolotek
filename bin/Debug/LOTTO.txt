@@ -1,0 +1,21 @@
+ Twoje liczby to :  1 3 5 7 9 11 
+
+ Wyosowane liczby w losowaniu : 1 to :  2 8 16 18 7 5
+ W losowaniu : 1 trafiles : 2 liczb! Wygrales : 0 zlotych! 
+
+ Wyosowane liczby w losowaniu : 2 to :  5 11 1 2 13 17
+ W losowaniu : 2 trafiles : 3 liczb! Wygrales : 30 zlotych! 
+
+ Wyosowane liczby w losowaniu : 3 to :  8 6 18 5 11 16
+ W losowaniu : 3 trafiles : 2 liczb! Wygrales : 0 zlotych! 
+
+ Wyosowane liczby w losowaniu : 4 to :  11 8 15 20 17 7
+ W losowaniu : 4 trafiles : 2 liczb! Wygrales : 0 zlotych! 
+
+ Wyosowane liczby w losowaniu : 5 to :  14 11 13 3 7 5
+ W losowaniu : 5 trafiles : 4 liczb! Wygrales : 400 zlotych! 
+
+ Wyosowane liczby w losowaniu : 6 to :  20 14 2 16 18 15
+ W losowaniu : 6 trafiles : 0 liczb! Wygrales : 0 zlotych! 
+
+ Lacznie wygrales : 430 zlotych ! 

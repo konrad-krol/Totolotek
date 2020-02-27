@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1528661695 source:c:\users\konra.laptop-iont2303\desktop\szkola\informatyka\totolotek\main.cpp
+	<iostream>
+	<ctime>
+	<iomanip>
+	<windows.h>
+	<fstream>
+
+1528835819 source:c:\users\konra.laptop-iont2303\desktop\szkola\informatyka\totolotek - projekt\main.cpp
+	<iostream>
+	<ctime>
+	<iomanip>
+	<windows.h>
+	<fstream>
+
